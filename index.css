@@ -1,6 +1,6 @@
 .b1 {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("/cityback.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -13,7 +13,7 @@
 }
 .b2 {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("./cityview.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
@@ -27,7 +27,7 @@
 
 .b3 {
     /* The image used */
-    background-image: url("img_parallax.jpg");
+    background-image: url("./officeback2.jpg");
 
     /* Set a specific height */
     min-height: 500px; 
